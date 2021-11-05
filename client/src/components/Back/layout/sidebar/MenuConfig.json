@@ -1,0 +1,71 @@
+{
+    "menus": [
+    {
+      "title": "Prototypes",
+      "type": "header",
+      "url" : "/home"
+
+    },
+    
+    {
+      "title": "Prototypes",
+      "icon": "fas fa-stamp",
+      "active": false,
+      "type": "dropdown",
+      "submenus": [
+        {
+          "title": "All prototypes",
+          "url" : "/displayp"
+        },
+        {
+          "title": "Add new prototype",
+          "url" : "/Dashboard"
+
+        }
+      ]
+    },
+    
+    
+    {
+      "title": "Items",
+      "type": "header"
+    },
+    {
+      "title": "Items",
+      "icon": "fas fa-pencil-alt",
+      "active": false,
+      "type": "dropdown",
+      "submenus": [
+        {
+          "title": "Add new item",
+          "url" : "/Additem"
+
+        },
+        {
+          "title": "view item",
+          "url" : "/Displayi"
+
+        }
+      ]
+    },
+    {
+      "title": "Profile",
+      "type": "header"
+    },
+    {
+      "title": "Profile",
+      "icon": "fas fa-id-card",
+      "active": false,
+      "type": "dropdown",
+      "submenus": [
+        {
+          "title": "View my profile"
+        },
+        {
+          "title": "Edit my profile"
+        }
+      ]
+    } 
+  
+    ]
+  }

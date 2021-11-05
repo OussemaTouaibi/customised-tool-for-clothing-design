@@ -1,0 +1,26 @@
+.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 1.5rem;
+}
+
+.sign-up {
+  margin-top: 4rem;
+  h1 {
+    font-size: 200%;
+    text-align: center;
+  }
+  h6 {
+    text-align: center;
+  }
+}
+.disc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

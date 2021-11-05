@@ -1,0 +1,97 @@
+<svg id="NeckF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+    <title>_</title>
+    <g id="Neck1">
+        <polygon points="123.15 15.62 177.25 15.41 184.95 44.12 148.75 53.32 116.35 33.62 123.15 15.62" style="fill:#b3b3b3;stroke:#231f20;stroke-miterlimit:10" />
+        <line x1="129.55" y1="33.41" x2="170.35" y2="33.61" style="fill:none;stroke:#231f20;stroke-miterlimit:10" />
+        <rect x="128.85" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="134.05" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="131.65" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="129.35" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="135.95" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="141.15" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="138.75" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="136.45" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="142.95" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="148.25" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="145.85" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="143.55" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="150.05" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="155.35" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="152.95" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="150.65" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="157.15" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="162.45" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="160.05" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="157.75" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="164.25" y="28.51" width="7.1" height="7.5" style="fill:none" />
+        <rect x="169.55" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="167.15" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <rect x="164.85" y="32.01" width="1.3" height="0.8" style="fill:#231f20" />
+        <path d="M107,35.61s5.6,21.2,15.3,31.4l19.8-21.2s-19.8-14.5-18.9-30.2h-2.5S115.05,33.21,107,35.61Z" style="fill:#fff;stroke:#231f20;stroke-miterlimit:10" />
+        <path d="M105,35.61s.1.5.3,1.2.4,1.6.6,2.5l1,3.6,7.2-2.2s-.5-1.6-1-3.3-.8-3.3-.8-3.2Z" style="fill:none" />
+        <polygon points="110.15 39.92 109.45 40.12 109.85 41.42 110.55 41.21 110.15 39.92" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="109.55 37.62 108.85 37.82 109.15 39.12 109.85 38.92 109.55 37.62" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="108.95 35.32 108.25 35.51 108.55 36.82 109.25 36.62 108.95 35.32" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M106.9,42.91s.6,1.8,1.2,3.5c.3.9.7,1.7.9,2.4a6.87,6.87,0,0,0,.4,1.1l6.9-2.8a8.68,8.68,0,0,1-.4-1c-.2-.6-.5-1.4-.8-2.2-.6-1.6-1.1-3.3-1.1-3.3Z" style="fill:none" />
+        <path d="M112.45,46.71l-.7.3.2.6.2.6.7-.3-.2-.6Z" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="111.65 44.42 110.95 44.71 111.35 46.02 112.05 45.71 111.65 44.42" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="110.85 42.21 110.15 42.42 110.55 43.71 111.25 43.51 110.85 42.21" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M109.45,49.91s.7,1.7,1.5,3.4c.4.9.8,1.7,1.1,2.3s.5,1.1.5,1.1l6.6-3.5s-.2-.4-.5-.9a20.18,20.18,0,0,1-1-2.1c-.7-1.5-1.4-3.1-1.4-3.1Z" style="fill:none" />
+        <polygon points="115.25 53.21 114.65 53.52 115.25 54.71 115.85 54.42 115.25 53.21" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="114.25 51.11 113.55 51.42 114.15 52.61 114.85 52.32 114.25 51.11" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="113.35 48.92 112.65 49.21 113.15 50.42 113.85 50.11 113.35 48.92" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M112.55,56.71a10.18,10.18,0,0,0,.6,1c.4.6.8,1.5,1.3,2.3s1,1.6,1.4,2.2.7,1,.7,1l6.1-4.4s-.2-.3-.6-.8a15.73,15.73,0,0,1-1.2-1.9c-.4-.7-.8-1.5-1.1-2s-.5-.9-.5-.9Z" style="fill:none" />
+        <path d="M118.9,59.41l-.6.4.4.6a3.25,3.25,0,0,0,.4.5l.6-.4a3.81,3.81,0,0,0-.4-.5A1.75,1.75,0,0,1,118.9,59.41Z" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M117.55,57.41l-.6.4.4.6.4.6.6-.4L118,58Z" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="116.35 55.32 115.75 55.71 116.35 56.92 117.05 56.52 116.35 55.32" style="fill:#231f20;fill-rule:evenodd" />
+        <rect x="124.27" y="55.01" width="7.5" height="7.5" transform="translate(-2.59 111.52) rotate(-46.65)" style="fill:none" />
+        <rect x="129.11" y="56.59" width="1.4" height="0.7" transform="translate(-0.71 112.23) rotate(-46.64)" style="fill:#231f20" />
+        <rect x="127.33" y="58.46" width="1.4" height="0.7" transform="translate(-2.61 111.56) rotate(-46.66)" style="fill:#231f20" />
+        <rect x="125.6" y="60.25" width="1.4" height="0.7" transform="translate(-4.46 110.86) rotate(-46.66)" style="fill:#231f20" />
+        <rect x="129.46" y="49.51" width="7.5" height="7.5" transform="translate(3.04 113.56) rotate(-46.65)" style="fill:none" />
+        <rect x="134.22" y="51.15" width="1.4" height="0.7" transform="translate(4.85 114.24) rotate(-46.64)" style="fill:#231f20" />
+        <rect x="132.51" y="52.94" width="1.4" height="0.7" transform="translate(3.02 113.6) rotate(-46.66)" style="fill:#231f20" />
+        <rect x="130.86" y="54.81" width="1.4" height="0.7" transform="translate(1.15 112.99) rotate(-46.66)" style="fill:#231f20" />
+        <rect x="134.57" y="44.06" width="7.5" height="7.5" transform="translate(8.6 115.57) rotate(-46.65)" style="fill:none" />
+        <rect x="139.4" y="45.64" width="1.4" height="0.7" transform="translate(10.47 116.28) rotate(-46.64)" style="fill:#231f20" />
+        <rect x="137.77" y="47.5" width="1.4" height="0.7" transform="translate(8.63 115.72) rotate(-46.66)" style="fill:#231f20" />
+        <rect x="136.05" y="49.3" width="1.4" height="0.7" transform="translate(6.78 115.03) rotate(-46.66)" style="fill:#231f20" />
+        <path d="M119.75,61.81l.6-.4.4.6c.1.1.1.2.2.2l.2.2a.3.3,0,0,1,.1.2l-.6.5-.2-.2c0-.1-.1-.1-.2-.2l-.2-.2A2.28,2.28,0,0,0,119.75,61.81Z" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M122.35,65.12a.35.35,0,0,1-.1-.2c-.1-.1-.2-.3-.3-.4a5.68,5.68,0,0,0-.5-.6l.6-.5.4.5h0l.1-.1.2-.2.5.5Z" style="fill:#231f20;fill-rule:evenodd" />
+        <rect x="123.63" y="62.06" width="1.4" height="0.7" transform="translate(-6.41 109.95) rotate(-46.64)" style="fill:#231f20" />
+        <path d="M121.35,29.81l.4.4c.3.3.7.6,1.2,1s1.1.9,1.8,1.4l1,.7a10.54,10.54,0,0,0,1.1.7c.4.2.7.5,1.1.7s.7.4,1.1.6a9.12,9.12,0,0,1,1,.6,7.92,7.92,0,0,1,.9.5,15.63,15.63,0,0,1,1.9,1.1l-2.1-.8a18.33,18.33,0,0,1-2.1-1c-.4-.2-.7-.4-1.1-.6s-.7-.5-1.1-.7-.7-.5-1.1-.7a3.92,3.92,0,0,1-1-.8c-.7-.5-1.2-1.1-1.7-1.5a11,11,0,0,1-1.1-1.2A1.16,1.16,0,0,0,121.35,29.81Z" style="fill:#231f20" />
+        <path d="M193.45,35.31s-5.6,21.2-15.3,31.4l-19.8-21.2s19.8-14.5,18.9-30.2h2.5C179.75,15.41,185.35,32.91,193.45,35.31Z" style="fill:#fff;stroke:#231f20;stroke-miterlimit:10" />
+        <path d="M188.15,33.81c0-.1-.3,1.6-.8,3.2a31.37,31.37,0,0,1-1,3.3l7.2,2.2s.6-1.8,1-3.6c.2-.9.5-1.8.6-2.5a5.75,5.75,0,0,1,.3-1.2Z" style="fill:none" />
+        <polygon points="190.75 39.82 189.95 39.62 189.65 40.82 190.35 41.12 190.75 39.82" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="191.35 37.51 190.65 37.32 190.25 38.62 191.05 38.82 191.35 37.51" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="191.95 35.21 191.15 35.01 190.85 36.32 191.65 36.51 191.95 35.21" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M186.35,40.41s-.5,1.6-1.1,3.3c-.3.8-.6,1.6-.8,2.2a8.68,8.68,0,0,1-.4,1l6.9,2.8a6.87,6.87,0,0,0,.4-1.1c.2-.7.6-1.5.9-2.4.6-1.8,1.2-3.5,1.2-3.5Z" style="fill:none" />
+        <path d="M188.45,46.61l-.7-.3-.2.6-.2.6.7.3.2-.6Z" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="189.25 44.32 188.55 44.12 188.15 45.32 188.85 45.61 189.25 44.32" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="190.05 42.12 189.25 41.92 188.85 43.12 189.55 43.42 190.05 42.12" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M184.05,46.81a29.7,29.7,0,0,1-1.4,3.1,20.18,20.18,0,0,1-1,2.1,9.84,9.84,0,0,1-.5.9l6.6,3.5s.2-.4.5-1.1a25.47,25.47,0,0,0,1.1-2.3c.8-1.7,1.5-3.4,1.5-3.4Z" style="fill:none" />
+        <polygon points="185.55 53.21 184.85 52.82 184.35 54.02 184.95 54.42 185.55 53.21" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="186.55 51.02 185.95 50.71 185.35 51.92 186.05 52.21 186.55 51.02" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="187.55 48.82 186.85 48.52 186.35 49.82 187.05 50.11 187.55 48.82" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M181.15,53s-.2.4-.5.9-.7,1.3-1.1,2-.9,1.4-1.2,1.9a4.52,4.52,0,0,1-.6.8l6.1,4.4s.3-.4.7-1,.9-1.4,1.4-2.2.9-1.7,1.3-2.3a10.18,10.18,0,0,0,.6-1Z" style="fill:none" />
+        <path d="M182.05,59.41l-.6-.4-.4.6a3.25,3.25,0,0,1-.4.5l.6.4a3.81,3.81,0,0,1,.4-.5Z" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M183.35,57.41l-.6-.4a3.36,3.36,0,0,0-.3.6l-.4.6.6.4.4-.6C183.15,57.71,183.25,57.41,183.35,57.41Z" style="fill:#231f20;fill-rule:evenodd" />
+        <polygon points="184.45 55.32 183.85 55.02 183.15 56.11 183.85 56.52 184.45 55.32" style="fill:#231f20;fill-rule:evenodd" />
+        <rect x="168.63" y="54.69" width="7.5" height="7.5" transform="translate(6.91 134.28) rotate(-43.35)" style="fill:none" />
+        <rect x="170.39" y="55.93" width="0.7" height="1.4" transform="translate(7.7 132.63) rotate(-43.34)" style="fill:#231f20" />
+        <rect x="172.09" y="57.75" width="0.7" height="1.4" transform="translate(6.93 134.35) rotate(-43.36)" style="fill:#231f20" />
+        <rect x="173.85" y="59.51" width="0.7" height="1.4" transform="translate(6.21 136.03) rotate(-43.36)" style="fill:#231f20" />
+        <rect x="163.44" y="49.22" width="7.5" height="7.5" transform="translate(9.25 129.22) rotate(-43.35)" style="fill:none" />
+        <rect x="165.19" y="50.45" width="0.7" height="1.4" transform="translate(10.04 127.56) rotate(-43.34)" style="fill:#231f20" />
+        <rect x="166.95" y="52.2" width="0.7" height="1.4" transform="translate(9.32 129.25) rotate(-43.34)" style="fill:#231f20" />
+        <rect x="168.65" y="54.02" width="0.7" height="1.4" transform="translate(8.56 130.97) rotate(-43.36)" style="fill:#231f20" />
+        <rect x="158.23" y="43.74" width="7.5" height="7.5" transform="translate(11.59 124.15) rotate(-43.35)" style="fill:none" />
+        <rect x="160.06" y="44.9" width="0.7" height="1.4" transform="translate(12.45 122.53) rotate(-43.34)" style="fill:#231f20" />
+        <rect x="161.74" y="46.72" width="0.7" height="1.4" transform="translate(11.66 124.18) rotate(-43.34)" style="fill:#231f20" />
+        <rect x="163.44" y="48.53" width="0.7" height="1.4" transform="translate(10.88 125.84) rotate(-43.34)" style="fill:#231f20" />
+        <path d="M180.65,61.51l-.6-.4-.4.6c-.1.1-.1.2-.2.2l-.2.2a.3.3,0,0,0-.1.2l.6.5.2-.2c0-.1.1-.1.2-.2l.2-.2A2.28,2.28,0,0,1,180.65,61.51Z" style="fill:#231f20;fill-rule:evenodd" />
+        <path d="M178,64.81a.35.35,0,0,0,.1-.2c.1-.1.2-.3.3-.4a5.68,5.68,0,0,1,.5-.6l-.6-.5-.4.5h0l-.1-.1-.2-.2-.5.5Z" style="fill:#231f20;fill-rule:evenodd" />
+        <rect x="175.64" y="61.42" width="0.7" height="1.4" transform="translate(5.38 137.79) rotate(-43.36)" style="fill:#231f20" />
+        <path d="M179.05,29.51a2.15,2.15,0,0,1-.4.5,9.6,9.6,0,0,1-1.1,1.2c-.5.4-1,1-1.7,1.5-.3.3-.7.5-1,.8a4.13,4.13,0,0,1-1.1.7c-.4.2-.7.5-1.1.7a10.59,10.59,0,0,0-1.1.6,20.18,20.18,0,0,1-2.1,1c-1.2.5-2.1.8-2.1.8s.8-.4,1.9-1.1c.3-.2.6-.3.9-.5s.7-.4,1-.6a10.91,10.91,0,0,1,1.1-.6c.4-.2.7-.5,1.1-.7s.7-.5,1.1-.7a8.65,8.65,0,0,0,1-.7c.7-.5,1.3-1,1.8-1.4s.9-.8,1.2-1C179,29.61,179.05,29.51,179.05,29.51Z" style="fill:#231f20" />
+    </g>
+</svg>

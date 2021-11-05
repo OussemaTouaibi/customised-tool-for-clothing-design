@@ -1,0 +1,8 @@
+<svg id="Pocket" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+    <title>_</title>
+    <g id="Pocket3">
+        <polygon points="11.04 23.86 51.14 25.46 50.94 33.56 11.24 32.86 11.04 23.86" style="fill:#f2f2f2;stroke:#231f20;stroke-miterlimit:10" />
+        <polyline points="26.84 24.46 26.64 37.06 29.84 44.06 33.74 39.66 34.04 24.76" style="fill:#f8b7b7;stroke:#231f20;stroke-miterlimit:10;stroke-width:0.75px" />
+        <path d="M31.54,36.26a1.36,1.36,0,0,1-1,1.8,1.68,1.68,0,0,1-2.1-.7,1.36,1.36,0,0,1,1-1.8A1.64,1.64,0,0,1,31.54,36.26Z" style="fill:#fff;stroke:#231f20;stroke-miterlimit:10" />
+    </g>
+</svg>
